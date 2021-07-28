@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "text": "Doctor's Appointment",
+      "day": "Nov 25th @ 12pm",
+      "reminder": true,
+      "notes": "Eat something in the morning",
+      "id": 1
+    },
+    {
+      "text": "Presentation for work",
+      "day": "December 10th @ 8am",
+      "reminder": true,
+      "notes": "",
+      "id": 2
+    },
+    {
+      "text": "Gym ",
+      "day": "Today @ 8pm",
+      "reminder": false,
+      "notes": "Chest and Back",
+      "id": 3
+    },
+    {
+      "text": "Gym",
+      "day": "Tomorrow @ 8pm",
+      "reminder": false,
+      "notes": "Arms and Shoulders",
+      "id": 4
+    },
+    {
+      "text": "Oil Change for Car",
+      "day": "Nov 18th @ 2pm",
+      "reminder": true,
+      "notes": "",
+      "id": 5
+    }
+  ]
+}
